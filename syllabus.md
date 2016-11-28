@@ -13,32 +13,14 @@ Meeting Time: 1 hour/week.  Ideally at lunchtime with provided pizza.
 Career Pathways Project "Careers Toolbox"
 https://www.spsnational.org/careerstoolbox
 
-2. Historical study of 1-3 physics figures
-
-3. Popular summary of current discoveries.  E.g., "The 4% Universe", "The Extravagant Universe", something on LIGO or the Higgs.
-
-4. Reference for topic.
-
-5. Books suggested by Olivia Lanes
- "Strange World of Quantum Mechanics"
-Daniel F. Styer
-https://www.amazon.com/Strange-World-Quantum-Mechanics/dp/0521667801 
-
-"QED: The Strange Theory of Light and Matter"
+2. "Six Easy Pieces"
 Richard P. Feynman
-https://www.amazon.com/QED-Strange-Theory-Light-Matter/dp/0691125759
+https://www.amazon.com/Six-Easy-Pieces-Essentials-Explained/dp/0465025277
 
-"Thinking Like an Engineer"
-(except that it should be called "Thinking Like a Physicist")
+3. Historical study of 1-3 physics figures.  These will be short vignettes, supplemented with Wikipedia articles for broad details.
 
-"Thinking Like a Physicist"
-Ned Thompson
-https://www.amazon.com/Thinking-Physicist-Physics-Problems-Undergraduates/
+4. Popular summary of current discoveries.  Provide reference material when Physics Nobel prize is announced in the fall.
 
-Olivia:
-"""
-They're both great reads and read at an introductory level. If you want any other help let me know, I think this course is a great idea.
-"""
 
 ### Schedule
 Week | Planned Material
@@ -48,12 +30,12 @@ Week | Planned Material
 3    | Thinking Like a Physicist.  
 4    | AIP Career Toolbox "Section 1.  Options and Opportunities".  Job titles of physicists.
 5    | Quantum Mechanics
-6    | 
-7    | 
-8    | 
-9    |
-10   |
-11   |
-12   |
-13   |
-14   |
+6    | Intro to Department, Major and Minor options, SPS recruiting
+7    | What is research?  Process, Culture, requirements for success.
+8    | Stereotype threat reduction exercises
+9    | Elevator speeches
+10   | Post Nobel talk (scheduled for mid-Oct)
+11   | Library skills
+12   | Research + teaching opportunities in Department
+13   | Career and Future Planning Exercise
+14   | Elevator speech final round
