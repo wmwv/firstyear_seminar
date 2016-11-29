@@ -48,9 +48,9 @@ https://www.amazon.com/Six-Easy-Pieces-Essentials-Explained/dp/0465025277
 ### Schedule
 Week | Planned Material
 -----|-----------------
-1    | What is Physics?  What do physicists do?.  AIP Career Toolbox "Where do physics graduates go?"
+1    | Thinking Like a Physicist
 2    | The Big Questions in Physics
-3    | Thinking Like a Physicist.  
+3    | What is Physics?  What do physicists do?.  AIP Career Toolbox "Where do physics graduates go?"
 4    | AIP Career Toolbox "Section 1.  Options and Opportunities".  Job titles of physicists.
 5    | Quantum Mechanics
 6    | Intro to Department, Major and Minor options, SPS recruiting
