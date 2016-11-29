@@ -1,4 +1,4 @@
-## Freshman Seminar in Physics
+## Firstyear Seminar in Physics
 ## Physics 0???, University of Pittsburgh *(Fall 2017)*
 ## Syllabus
 
