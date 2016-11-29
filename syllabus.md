@@ -8,6 +8,27 @@ Meeting Time: 1 hour/week.  Ideally at lunchtime with provided pizza.
 
 ### Instructor Information
 
+Course Description and Objectives:
+Introduce first-year students to the field, practice, research, and opportunities in Physics and Astronomy.  Students will be able to describe the variety of pursuits that physicists pursue; explain both the basic and recent topics in Physics to the lay-person; understand their own career interests and potential pursuit of Physics or other disciplines. 
+
+Prerequisites:  None
+
+Organization of Course Content:
+In-class time will focus on discussions, interactive exercises, and quick presentations.  Out-of-class time will be spent reading material and reflecting on questions about physics and the students plans for the future.
+
+Course requirements: weekly reading, reading quizzes, various short writing assignments, in-class presentations.
+
+Hours/week: 3
+
+Weekly assignments:
+Out-of-class activities will include readings and short writing exercises.
+
+Grading policy:
+25% participation;
+25% writing assignments
+25% reading quizzes
+25% in-class presentation
+
 ### Books and References
 1. American Institute of Physics | Society of Physics Students
 Career Pathways Project "Careers Toolbox"
