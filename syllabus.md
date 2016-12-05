@@ -48,11 +48,11 @@ https://www.amazon.com/Six-Easy-Pieces-Essentials-Explained/dp/0465025277
 ### Schedule
 Week | Planned Material
 -----|-----------------
-1    | Thinking Like a Physicist and Astronomer
-2    | The Big Questions in Physics and Astronomy
-3    | What is Physics?  What do physicists do?.  AIP Career Toolbox "Where do physics graduates go?"
-4    | AIP Career Toolbox "Section 1.  Options and Opportunities".  Job titles of physicists.
-5    | Intro to Department. Major and Minor options + topics covered in the core courses, SPS recruiting.
+1    | What is Physics?  What is Astronomy?  The Big Questions in Physics and Astronomy?
+2    | Intro to Department. Major and Minor options + the key courses in the program, SPS recruiting.
+3    | What do physicists do?.  AIP Career Toolbox "Where do physics graduates go?"
+4    | Thinking Like a Physicist
+5    | AIP Career Toolbox "Section 1.  Options and Opportunities".  Job titles of physicists.
 6    | Guest speaker: ideally someone working in a non-academic job using their Physics or Astronomy degree.
 7    | What is research?  Process, Culture, requirements for success.
 8    | Stereotype threat reduction exercises
