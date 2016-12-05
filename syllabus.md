@@ -1,4 +1,4 @@
-## Firstyear Seminar in Physics
+## Firstyear Seminar in Physics and Astronomy
 ## Physics 0???, University of Pittsburgh *(Fall 2017)*
 ## Syllabus
 
@@ -11,12 +11,12 @@ Michael Wood-Vasey, wmwv@pitt.edu
 Allen Hall 308
 
 ### Course Description and Objectives:
-Introduce first-year students to the field, practice, research, and opportunities in Physics and Astronomy.  Students will be able to describe the variety of pursuits that physicists pursue; explain both the basic and recent topics in Physics to the lay-person; understand their own career interests and potential pursuit of Physics or other disciplines. 
+Introduce first-year students to the field, practice, research, and opportunities in Physics and Astronomy.  Students will be able to describe the variety of pursuits that physicists pursue; explain both the basic and recent topics in Physics and Astronomy to the lay-person; understand their own career interests and potential pursuit of Physics, Astronomy, and related disciplines.  This is intended to be taken for a satisfactory/non-satisfactory grade.
 
 ### Prerequisites:  None
 
 ### Organization of Course Content:
-In-class time will focus on discussions, interactive exercises, and quick presentations.  Out-of-class time will be spent reading material and reflecting on questions about physics and the students' plans for the future.
+In-class time will focus on discussions, interactive exercises, and quick presentations.  Out-of-class time will be spent reading material and reflecting on questions about physics and astronomy and the students' plans for the future.
 
 ### Course requirements: weekly reading, in-class and out-of-class short writing assignments, in-class presentations.
 
@@ -40,7 +40,7 @@ https://www.spsnational.org/careerstoolbox
 Richard P. Feynman
 https://www.amazon.com/Six-Easy-Pieces-Essentials-Explained/dp/0465025277
 
-3. Historical study of 1-3 physics figures.  These will be short vignettes, supplemented with Wikipedia articles for broad details.
+3. Historical study of 1-3 people in physics and astronomy.  These will be short vignettes, supplemented with Wikipedia articles for broad details.
 
 4. Popular summary of current discoveries.  Provide reference material when Physics Nobel prize is announced in the fall.
 
@@ -48,12 +48,12 @@ https://www.amazon.com/Six-Easy-Pieces-Essentials-Explained/dp/0465025277
 ### Schedule
 Week | Planned Material
 -----|-----------------
-1    | Thinking Like a Physicist
-2    | The Big Questions in Physics
+1    | Thinking Like a Physicist and Astronomer
+2    | The Big Questions in Physics and Astronomy
 3    | What is Physics?  What do physicists do?.  AIP Career Toolbox "Where do physics graduates go?"
 4    | AIP Career Toolbox "Section 1.  Options and Opportunities".  Job titles of physicists.
 5    | Intro to Department. Major and Minor options + topics covered in the core courses, SPS recruiting.
-6    | Guest speaker: ideally someone working in a non-academic job using their Physics degree.
+6    | Guest speaker: ideally someone working in a non-academic job using their Physics or Astronomy degree.
 7    | What is research?  Process, Culture, requirements for success.
 8    | Stereotype threat reduction exercises
 9    | Elevator speeches
