@@ -52,8 +52,8 @@ Week | Planned Material
 2    | The Big Questions in Physics
 3    | What is Physics?  What do physicists do?.  AIP Career Toolbox "Where do physics graduates go?"
 4    | AIP Career Toolbox "Section 1.  Options and Opportunities".  Job titles of physicists.
-5    | Quantum Mechanics
-6    | Intro to Department, Major and Minor options, SPS recruiting
+5    | Intro to Department. Major and Minor options + topics covered in the core courses, SPS recruiting.
+6    | Guest speaker: ideally someone working in a non-academic job using their Physics degree.
 7    | What is research?  Process, Culture, requirements for success.
 8    | Stereotype threat reduction exercises
 9    | Elevator speeches
