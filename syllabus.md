@@ -16,19 +16,19 @@ Introduce first-year students to the field, practice, research, and opportunitie
 ### Prerequisites:  None
 
 ### Organization of Course Content:
-In-class time will focus on discussions, interactive exercises, and quick presentations.  Out-of-class time will be spent reading material and reflecting on questions about physics and the students plans for the future.
+In-class time will focus on discussions, interactive exercises, and quick presentations.  Out-of-class time will be spent reading material and reflecting on questions about physics and the students' plans for the future.
 
-### Course requirements: weekly reading, reading quizzes, various short writing assignments, in-class presentations.
+### Course requirements: weekly reading, in-class and out-of-class short writing assignments, in-class presentations.
 
 ### Hours/week: 3
 
 ### Weekly assignments:
-Out-of-class activities will include readings and short writing exercises.
+Out-of-class activities will include readings and short writing assignments.
 
 ### Grading policy:
 25% participation;
-25% writing assignments
-25% reading quizzes
+25% writing assignments (out-of-class)
+25% writing exercises (in-class)
 25% in-class presentation
 
 ### Books and References
