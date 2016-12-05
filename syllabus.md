@@ -4,6 +4,7 @@
 
 ### Course Information
 
+Credits: 1 credit.  Grading will be S/NS.
 Meeting Time: 1 hour/week.  Ideally at lunchtime with provided pizza.
 
 ### Instructor Information
@@ -21,6 +22,7 @@ In-class time will focus on discussions, interactive exercises, and quick presen
 ### Course requirements: weekly reading, in-class and out-of-class short writing assignments, in-class presentations.
 
 ### Hours/week: 3
+1 credit course.
 
 ### Weekly assignments:
 Out-of-class activities will include readings and short writing assignments.
